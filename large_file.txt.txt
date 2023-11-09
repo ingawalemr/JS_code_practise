@@ -1,0 +1,4 @@
+demoi
+test
+yes
+no
